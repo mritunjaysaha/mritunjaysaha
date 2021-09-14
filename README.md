@@ -7,6 +7,8 @@
 
 
 <br/>
+<br/>
+
 <p align="center">
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjaysaha&theme=tokyonight&hide=glsl,python" alt="language stats"/>
@@ -18,6 +20,14 @@
 
 </p>
 
+<br/>
+<br/>
+
+<p align="center">
+<a href="https://twitter.com/MritunjaySaha_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/Mritunjay-saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a>
+<a href="https://instagram.com/mritunjay.codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pai_cube" height="20" width="20" /></a>
+</p>
 
 
 <!--

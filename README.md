@@ -9,7 +9,7 @@
 <br/>
 <p align="center">
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjaysaha&theme=radical&hide=glsl,python" alt="language stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjaysaha&theme=tokyonight&hide=glsl,python" alt="language stats"/>
 </a>
 
 <a>

@@ -9,8 +9,6 @@
 <br/>
 <br/>
 
-<!-- [![willianrod's wakatime stats]()](https://github.com/anuraghazra/github-readme-stats) -->
-
 <p align="center">
 <a>
 

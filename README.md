@@ -9,9 +9,12 @@
 <br/>
 <br/>
 
+<!-- [![willianrod's wakatime stats]()](https://github.com/anuraghazra/github-readme-stats) -->
+
 <p align="center">
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjaysaha&theme=tokyonight&hide=glsl,python" alt="language stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mritunjay&layout=compact&theme=tokyonight&hide=glsl,python" alt="language stats"/>
 </a>
 
 <a>

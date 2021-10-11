@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mritunjay</h1>
 <h3 align="center">Front-end developer who aims to write quality code</h3>
 
-- 👨‍💻 All of my projects are available at [github](https//github.com/mritunjaysaha)
+- 👨‍💻 All of my projects are available at **[github](https//github.com/mritunjaysaha)**
 
 - 📫 How to reach me **mritunjaysaha@outlook.com**
 
-- 🖥 Here is my portfolio [mritunjaysaha.live](https://mritunjaysaha.li*ve)
+- 🖥 Here is my portfolio **[mritunjaysaha.live](https://mritunjaysaha.live)**
 
 
 <br/>

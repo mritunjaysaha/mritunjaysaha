@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mritunjaysaha@outlook.com**
 
-- 🖥 Here is my portfolio **[mritunjaysaha.live](https://mritunjaysaha.live)**
+- 🖥 Here is my portfolio **[mritunjaysaha.nelify.app](https://mritunjaysaha.netlify.app)**
 
 
 <br/>

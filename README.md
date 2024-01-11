@@ -19,9 +19,6 @@
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mritunjaysaha&count_private=true&show_icons=true&theme=tokyonight" alt="github stats"/>
 </a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mritunjaysaha)](https://git.io/streak-stats)
-
 </p>
 
 <br/>

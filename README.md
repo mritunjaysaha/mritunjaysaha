@@ -16,9 +16,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mritunjay&layout=compact&theme=tokyonight&hide=glsl,python" alt="language stats"/>
 </a> 
 
+<!--
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mritunjaysaha&count_private=true&show_icons=true&theme=tokyonight" alt="github stats"/>
 </a>
+-->
+
 </p>
 
 <br/>

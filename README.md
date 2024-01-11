@@ -13,13 +13,14 @@
 
 <p align="center">
 <a>
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mritunjay&layout=compact&theme=tokyonight&hide=glsl,python" alt="language stats"/>
-</a> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mritunjay&layout=compact&theme=tokyonight&hide=glsl,python" alt="language stats"/>
+</a> 
 
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mritunjaysaha&count_private=true&show_icons=true&theme=tokyonight" alt="github stats"/>
 </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mritunjaysaha)](https://git.io/streak-stats)
 
 </p>
 

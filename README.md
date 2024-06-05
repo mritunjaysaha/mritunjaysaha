@@ -10,15 +10,17 @@
 
 <br/>
 <br/>
-
+<!--
 <p align="center">
 <a align="center" href="https://wakatime.com/@edd4a2b7-e277-4565-956e-848103e4bb9b"><img src="https://wakatime.com/badge/user/edd4a2b7-e277-4565-956e-848103e4bb9b.svg" alt="Total time coded since Jun 1 2020" /></a>
 </p>
+-->
+<!--
 <p align="center">
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mritunjay&layout=compact&theme=tokyonight&hide=glsl,python" alt="language stats"/>
 </a> 
-
+-->
 <!--
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mritunjaysaha&count_private=true&show_icons=true&theme=tokyonight" alt="github stats"/>

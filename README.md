@@ -7,6 +7,8 @@
 
 - 🖥 Here is my portfolio **[mritunjaysaha.nelify.app](https://mritunjaysaha.netlify.app)**
 
+- Tech stacks: JavaScript, TypeScript, React.js, Redux.js, React Native, TailwindCSS, HTML5, CSS3, Sass, MongoDB, Node.js, Next.js 
+
 
 <br/>
 <br/>

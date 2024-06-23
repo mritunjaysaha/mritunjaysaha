@@ -12,11 +12,10 @@
 
 <br/>
 <br/>
-<!--
 <p align="center">
 <a align="center" href="https://wakatime.com/@edd4a2b7-e277-4565-956e-848103e4bb9b"><img src="https://wakatime.com/badge/user/edd4a2b7-e277-4565-956e-848103e4bb9b.svg" alt="Total time coded since Jun 1 2020" /></a>
 </p>
--->
+
 <!--
 <p align="center">
 <a>

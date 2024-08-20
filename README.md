@@ -7,7 +7,9 @@
 
 - 🖥 Here is my portfolio **[mritunjaysaha.nelify.app](https://mritunjaysaha.netlify.app)**
 
-- Tech stacks: JavaScript, TypeScript, React.js, Redux.js, React Native, TailwindCSS, HTML5, CSS3, Sass, MongoDB, Node.js, Next.js 
+- Tech stacks: JavaScript, TypeScript, React.js, Redux.js, React Native, TailwindCSS, HTML5, CSS3, Sass, MongoDB, Node.js, Next.js
+
+[![](https://visitcount.itsvg.in/api?id=mritunjaysaha&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <!--
 <p align="center">
   <a align="center" href="https://wakatime.com/@edd4a2b7-e277-4565-956e-848103e4bb9b"><img src="https://wakatime.com/badge/user/edd4a2b7-e277-4565-956e-848103e4bb9b.svg" alt="Total time coded since Jun 1 2020" /></a>

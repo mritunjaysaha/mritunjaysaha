@@ -9,23 +9,23 @@
 
 - Tech stacks: JavaScript, TypeScript, React.js, Redux.js, React Native, TailwindCSS, HTML5, CSS3, Sass, MongoDB, Node.js, Next.js
 
-[![](https://visitcount.itsvg.in/api?id=mritunjaysaha&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
-<!--
+<!-- [![](https://visitcount.itsvg.in/api?id=mritunjaysaha&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in) -->
+
 <p align="center">
   <a align="center" href="https://wakatime.com/@edd4a2b7-e277-4565-956e-848103e4bb9b"><img src="https://wakatime.com/badge/user/edd4a2b7-e277-4565-956e-848103e4bb9b.svg" alt="Total time coded since Jun 1 2020" /></a>
 </p>
--->
-<!--
+
+
 <p align="center">
   <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mritunjay&layout=compact&theme=tokyonight&hide=glsl,python" alt="language stats"/>
-  </a> 
-  
-  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mritunjaysaha&count_private=true&show_icons=true&theme=tokyonight" alt="github stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mritunjaysaha&count_private=true&show_icons=true&theme=tokyonight" alt="github stats"/>
   </a>
 </p>
--->
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mritunjay&layout=compact&theme=tokyonight&hide=glsl,python" alt="language stats"/>
+  </a> 
+</p>
 
 <br/>
 <p align="center">

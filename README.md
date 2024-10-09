@@ -10,7 +10,7 @@
 - Tech stacks: JavaScript, TypeScript, React.js, Redux.js, React Native, TailwindCSS, HTML5, CSS3, Sass, MongoDB, Node.js, Next.js
 
 <!-- [![](https://visitcount.itsvg.in/api?id=mritunjaysaha&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in) -->
-
+<!--
 <p align="center">
   <a align="center" href="https://wakatime.com/@edd4a2b7-e277-4565-956e-848103e4bb9b"><img src="https://wakatime.com/badge/user/edd4a2b7-e277-4565-956e-848103e4bb9b.svg" alt="Total time coded since Jun 1 2020" /></a>
 </p>
@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/mritunjaysaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a>
   <a href="https://dev.to/mritunjaysaha" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="pai_cube" height="20" width="20" style="" /></a>
 </p>
-
+-->
 <!--
 **mritunjaysaha/mritunjaysaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

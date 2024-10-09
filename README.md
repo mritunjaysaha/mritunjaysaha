@@ -26,14 +26,18 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mritunjay&layout=compact&theme=tokyonight&hide=glsl,python" alt="language stats"/>
   </a> 
 </p>
+-->
 
 <br/>
+
 <p align="center">
-  <a href="https://twitter.com/mritunjay__saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>
-  <a href="https://linkedin.com/in/mritunjaysaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a>
-  <a href="https://dev.to/mritunjaysaha" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="pai_cube" height="20" width="20" style="" /></a>
+  <a href="https://twitter.com/mritunjay__saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mritunjaysaha" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/mritunjaysaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mritunjaysaha" height="20" width="20" /></a>
+  <a href="https://dev.to/mritunjaysaha" target="blank">
+    <img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" height="20" width="20" style="" />
+  </a>
 </p>
--->
+
 <!--
 **mritunjaysaha/mritunjaysaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
